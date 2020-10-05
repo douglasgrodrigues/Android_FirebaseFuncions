@@ -220,7 +220,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-
+//te
 
         //Verifica usuario logado
         if ( usuario.getCurrentUser() != null){
